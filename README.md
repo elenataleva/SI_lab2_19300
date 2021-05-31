@@ -20,4 +20,4 @@ T T T
 T T F
 T F X
 F X X
-[si.txt](https://github.com/elenataleva/SI_lab2_19300/files/6571727/si.txt)
+
