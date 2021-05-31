@@ -24,7 +24,11 @@ F F
 
 else (hr == 24 && min == 0 && sec == 0)
 T T T
+
 T T F
+
 T F X
+
 F X X
+
 
