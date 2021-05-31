@@ -7,14 +7,19 @@
 функцијата function.
 
 Тест случаи според критериумот Multiple condition
+
 If(h1<0 || hr>24)
+
 T X
 
 F T
 
 if (min < 0 || min >= 60)
+
 T X
+
 F T
+
 F F
 
 else (hr == 24 && min == 0 && sec == 0)
